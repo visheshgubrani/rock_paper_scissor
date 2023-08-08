@@ -47,8 +47,10 @@ if player_score > computer_score:
 elif computer_score > player_score:
     print("You lose the game")
 else:
-    print("Its a tie")
+    print("Its a aaa a big tie")
 
-def new():
-    print("cake")
+print("HIIII")
 
+print("NEW")
+
+f
